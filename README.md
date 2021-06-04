@@ -35,7 +35,7 @@ The `irisha.conf` file is used for server-settings. You can find configuration i
 Other possibilities:
 * make clean - delete all .o file
 * make fclean - delete all .o file and execution file
-* make re - recompile project%
+* make re - recompile project
 
-## Attention❗
-IrishaIRC is a study project. It is not perfect and contains some bugs. I hope you will like it. 😊
+## ❗
+Tested on MacOS.
